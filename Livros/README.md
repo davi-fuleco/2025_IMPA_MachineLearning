@@ -11,3 +11,6 @@ https://probml.github.io/pml-book/book1.html
 
 ###### The Matrix Cookbook
 https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
+
+###### Statistical Inference
+https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf
